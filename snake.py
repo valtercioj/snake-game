@@ -150,3 +150,4 @@ def jogo():
 
 jogo()
 pygame.quit()
+# author: Valtercio Junior
